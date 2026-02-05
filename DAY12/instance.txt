@@ -1,0 +1,47 @@
+
+
+
+Linux
+=======
+
+
+step 1: search ec2 in dashboard
+
+step 2: click on launch instance
+
+
+step 3: choose tags 
+
+step 4: choose an AMI
+
+step 5: choose an instance Type
+
+
+step 6: create a keypair
+
+step 7: select network settings
+
+step 8: select number of instances
+
+
+step 9: create an instance
+
+
+======================================================================
+How to connect an EC2 instance?
+
+option 1 :  AWS EC2 Instance Connect
+
+option 2 : with the help of gitbash
+
+option 3: connect via mobaxterm 
+
+option 4: putty(.ppk)
+
+.pem ---> .ppk use puttygen 
+
+option 5: mac terminal
+
+options 6: command promt
+
+
