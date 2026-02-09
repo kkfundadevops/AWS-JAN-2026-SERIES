@@ -393,6 +393,7 @@ Temporary mount:
 Example:
 
 ```
+mount /dev/nvme1n1 /home/ec2-user/newvol
 tail -1 /etc/matb
 sudo vi /etc/fstab
 ```
