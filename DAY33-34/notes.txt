@@ -1,0 +1,7 @@
+RDS intro
+
+MYSQL setup
+
+Single instance, mutli instance and cluster
+
+Read replicas
